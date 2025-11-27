@@ -6,3 +6,4 @@ pymongo
 flask_cors
 joblib
 dotenv
+gunicorn
